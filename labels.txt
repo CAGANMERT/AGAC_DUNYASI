@@ -1,0 +1,6 @@
+0 MEŞE
+1 HUŞ
+2 ÇAM
+3 SAKURA
+4 AKASYA
+5 LADİN
