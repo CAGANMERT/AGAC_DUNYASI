@@ -1,0 +1,3 @@
+Ağaçlar hakkında bilgi endinmek ister misiniz?
+Eğer cevabınız evetse ve Discord'u kullanıyorsanız sizin için harika bir bot var.
+Şu anda bilgi edinebileceğiniz ağaç sayısı sınırlı ama kim bilir belki bir gün sizin ağacınız da eklenir...
